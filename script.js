@@ -1,8 +1,5 @@
-function start() {
-  var clicks = 0;
-  var cps = 0;
-  var click 
-}
 function l() {
-  var
+  var clicks = document.getElementById("clicks").innerText;
+  clicks = clicks + 1;
+  document.getElementById("clicks").innerText = clicks
 }
